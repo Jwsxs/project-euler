@@ -2,8 +2,8 @@
 > **Answer:** 4613732
 
 - Java ✔️
-- C 
-- C++ 
-- C# 
-- Python 
-- Rust 
+- C ✔️
+- C++
+- C#
+- Python
+- Rust

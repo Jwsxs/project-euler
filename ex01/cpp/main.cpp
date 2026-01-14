@@ -9,5 +9,5 @@ int main() {
     }
 
     std::cout << "The sum of all divisors of 3 and 5 below 1000 is: " << sum << std::endl;
-    return 1;
+    return 0;
 }

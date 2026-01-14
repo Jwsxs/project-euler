@@ -19,5 +19,5 @@ int main() {
             if (isPrime(i))
                 printf("%i\n", i);
     }
-    return 1;
+    return 0;
 }

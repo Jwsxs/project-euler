@@ -8,5 +8,5 @@ int main() {
         }
     }
     printf("The sum of all divisors of 3 and 5 below 1000 is: %i\n", sum);
-    return 1;
+    return 0;
 }

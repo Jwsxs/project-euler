@@ -8,10 +8,10 @@ int main() {
             break;
         if (j % 2 == 0)
             sum += j;
-        
+
         j = j + i;
         i = j - i;
     }
     printf("The sum is: %i\n", sum);
-    return 1;
+    return 0;
 }
