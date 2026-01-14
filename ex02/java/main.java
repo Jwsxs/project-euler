@@ -1,7 +1,7 @@
 public class main {
     public static void main(String[] args) {
         int i = 0, j = 1, sum = 0;
-        while (true) { 
+        while (true) {
             if (j > 4000000)
                 break;
 
